@@ -1,0 +1,75 @@
+/* bài tập 1
+Xuất 3 số theo thứ tự tăng dần
+ */
+ #soThuNhat{
+     margin-bottom: 10px;
+     margin-left: -120px;
+ }
+ #soThuHai{
+    margin-bottom: 10px;
+    margin-left: -120px;  
+ }
+ #soThuBa{
+    margin-bottom: 10px;
+    margin-left: -120px;
+ }
+ #thucHienSapXepSo{
+     margin-left: 50%;
+     transform: translateX(-50%);
+     margin-top: 10px;
+ }
+ #ketQua1{
+     height: 60px;
+ }
+ /* viết chương trình chào hỏi các thành viên trong gia đình */
+ #ThanhVienSuDungMay{
+     margin-left: -70px;
+ }
+ #ketQua2{
+     height: 40px;
+ }
+ /* bài 3: có bao nhiêu số chẵn và lẻ trong ba số */
+ #nhapSo1{
+     width: 50%;
+     margin-top: -3px;
+ }
+ #nhapSo2{
+     width: 50%;
+     margin-top: -3px;
+ }
+ #nhapSo3{
+     width: 50%;
+     margin-top: -3px;
+ }
+ #sapXepSoChanLe{
+     width: 30%;
+     margin-bottom: 15px;
+     margin-left: 50%;
+     transform: translateX(-50%);
+ }
+ #ketQua3{
+     height: 60px;
+ }
+
+ /*Bài 4: phân loại tam giác  */
+ #nhapCanhA{
+    width: 50%;
+    margin-top: -3px;
+}
+#nhapCanhB{
+    width: 50%;
+    margin-top: -3px;
+}
+#nhapCanhC{
+    width: 50%;
+    margin-top: -3px;
+}
+#phanLoaiTamGiac{
+    width: 30%;
+    margin-bottom: 15px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+#ketQua4{
+    height: 40px;
+}
